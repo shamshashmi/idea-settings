@@ -44,8 +44,8 @@
   <component name="UISettings">
     <option name="ALLOW_MERGE_BUTTONS" value="false" />
     <option name="EDITOR_TAB_PLACEMENT" value="3" />
-    <option name="FONT_FACE" value="Montserrat Medium" />
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_FACE" value="Ubuntu Mono" />
+    <option name="FONT_SCALE" value="1.25" />
     <option name="FONT_SIZE" value="14" />
     <option name="MAX_LOOKUP_WIDTH2" value="1434" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
