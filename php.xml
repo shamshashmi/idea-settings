@@ -6,11 +6,6 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\Server\php\php.exe" id="fd854708-fa88-4a77-a082-3159906e7779" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
@@ -215,9 +210,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
